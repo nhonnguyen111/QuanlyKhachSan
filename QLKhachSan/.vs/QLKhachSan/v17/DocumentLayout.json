@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLKhachSan\\QLKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|d:\\qlkhachsan\\qlkhachsan\\usecontrol\\useorderroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|solutionrelative:usecontrol\\useorderroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|D:\\QLKhachSan\\QLKhachSan\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|D:\\QLKhachSan\\QLKhachSan\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|D:\\QLKhachSan\\QLKhachSan\\dao\\dichvudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20D3448-C25E-4808-968A-61192BD3BE8B}|QLKhachSan.csproj|solutionrelative:dao\\dichvudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DichVuDAO.cs",
+              "DocumentMoniker": "D:\\QLKhachSan\\QLKhachSan\\DAO\\DichVuDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\DichVuDAO.cs",
+              "ToolTip": "D:\\QLKhachSan\\QLKhachSan\\DAO\\DichVuDAO.cs",
+              "RelativeToolTip": "DAO\\DichVuDAO.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:23:30.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "useOrderRoom.cs",
+              "DocumentMoniker": "D:\\QLKhachSan\\QLKhachSan\\UseControl\\useOrderRoom.cs",
+              "RelativeDocumentMoniker": "UseControl\\useOrderRoom.cs",
+              "ToolTip": "D:\\QLKhachSan\\QLKhachSan\\UseControl\\useOrderRoom.cs",
+              "RelativeToolTip": "UseControl\\useOrderRoom.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwG8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:38:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\QLKhachSan\\QLKhachSan\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\nhonn\\OneDrive\\Documents\\Github\\QLKhachSan\\QLKhachSan\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:25:21.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\QLKhachSan\\QLKhachSan\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "D:\\QLKhachSan\\QLKhachSan\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AQIAABsBAAAAAAAAAAAgwC4BAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:02:15.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\bin\Debug\net8.0\DAO.dll
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\bin\Debug\net8.0\DAO.pdb
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\nhonn\OneDrive\Documents\QLKháchSạn\DTO\obj\Debug\net8.0\ref\DTO.dll
